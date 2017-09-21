@@ -12,6 +12,10 @@
 		95CB25A91F740ABF00770024 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95CB25A71F740ABF00770024 /* Main.storyboard */; };
 		95CB25AB1F740ABF00770024 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95CB25AA1F740ABF00770024 /* Assets.xcassets */; };
 		95CB25AE1F740ABF00770024 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95CB25AC1F740ABF00770024 /* LaunchScreen.storyboard */; };
+		95CB25B81F740B0700770024 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 95CB25B51F740B0300770024 /* board.png */; };
+		95CB25B91F740B0A00770024 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 95CB25B61F740B0300770024 /* cross.png */; };
+		95CB25BA1F740B0E00770024 /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = 95CB25B71F740B0300770024 /* nought.png */; };
+		95CB25BC1F744A4700770024 /* moritz-schmidt-17467.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 95CB25BB1F744A4400770024 /* moritz-schmidt-17467.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		95CB25AA1F740ABF00770024 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95CB25AD1F740ABF00770024 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95CB25AF1F740ABF00770024 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95CB25B51F740B0300770024 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		95CB25B61F740B0300770024 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
+		95CB25B71F740B0300770024 /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought.png; sourceTree = "<group>"; };
+		95CB25BB1F744A4400770024 /* moritz-schmidt-17467.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "moritz-schmidt-17467.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +65,10 @@
 				95CB25A31F740ABF00770024 /* AppDelegate.swift */,
 				95CB25A51F740ABF00770024 /* ViewController.swift */,
 				95CB25A71F740ABF00770024 /* Main.storyboard */,
+				95CB25B51F740B0300770024 /* board.png */,
+				95CB25B61F740B0300770024 /* cross.png */,
+				95CB25B71F740B0300770024 /* nought.png */,
+				95CB25BB1F744A4400770024 /* moritz-schmidt-17467.jpg */,
 				95CB25AA1F740ABF00770024 /* Assets.xcassets */,
 				95CB25AC1F740ABF00770024 /* LaunchScreen.storyboard */,
 				95CB25AF1F740ABF00770024 /* Info.plist */,
@@ -123,8 +135,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95CB25B91F740B0A00770024 /* cross.png in Resources */,
+				95CB25B81F740B0700770024 /* board.png in Resources */,
+				95CB25BA1F740B0E00770024 /* nought.png in Resources */,
 				95CB25AE1F740ABF00770024 /* LaunchScreen.storyboard in Resources */,
 				95CB25AB1F740ABF00770024 /* Assets.xcassets in Resources */,
+				95CB25BC1F744A4700770024 /* moritz-schmidt-17467.jpg in Resources */,
 				95CB25A91F740ABF00770024 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
